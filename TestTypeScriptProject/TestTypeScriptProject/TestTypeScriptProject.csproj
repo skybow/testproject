@@ -25,6 +25,7 @@
   <ItemGroup>
     <TypeScriptCompile Include="app.ts" />
     <TypeScriptCompile Include="NewFile.ts" />
+    <TypeScriptCompile Include="TestPWI.ts" />
   </ItemGroup>
   <ItemGroup>
     <None Include="web.Debug.config">
